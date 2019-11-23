@@ -102,8 +102,8 @@
                 <div class="col-lg-12">
                     <div class="breadcrumb_iner">
                         <div class="breadcrumb_iner_item text-center">
-                            <h2>About Us</h2>
-                            <p>home . about us</p>
+                            <h2>My Travel to Naini!</h2>
+                            <p>by Sameer</p>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about_img">
-                        <img src="img/about_img.png" alt="#">
+                        <img src="photos/kheerganga1.jpeg" alt="#">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -184,7 +184,7 @@
     </section> -->
     <!--top place end-->
     <!--top place start-->
-    <section class="client_review section_padding">
+    <!-- <section class="client_review section_padding">
         <div class="container">
             <div class="row ">
                 <div class="col-xl-6">
@@ -221,10 +221,10 @@
             </div>
         </div>
     </section>
-    <!--top place end-->
+     --><!--top place end-->
 
      <!--::gallery part start::-->
-     <section class="our_gallery section_padding">
+     <!-- <section class="our_gallery section_padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6">
@@ -266,7 +266,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--::gallery part end::-->
 
     <!-- footer part start-->
